@@ -1,2 +1,3 @@
 # hello-world
-my frist repository
+my first repository
+I like coffee and reading and Animal Crossing
